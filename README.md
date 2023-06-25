@@ -5,7 +5,7 @@
 
 ## Yellow BMW E60
 
-![Yellow BMW E60](https://c4.wallpaperflare.com/wallpaper/167/130/357/car-rims-bmw-e60-wallpaper-preview.jpg | width=300)
+<img src="https://c4.wallpaperflare.com/wallpaper/167/130/357/car-rims-bmw-e60-wallpaper-preview.jpg" width="800">
 
 ```
 https://raw.githubusercontent.com/FMarius20/Vencord_ClearVision_Themes/main/Yellow%20-%20ClearVision_Yellow_E60.txt
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/FMarius20/Vencord_ClearVision_Themes/main/Yell
 
 ## Blue BMW M3
 
-<img src="[https://your-image-url.type](https://images.alphacoders.com/485/485352.jpg)" width="100" height="100">
+<img src="https://images.alphacoders.com/485/485352.jpg" width="800">
 
 ```
 https://raw.githubusercontent.com/FMarius20/Vencord_ClearVision_Themes/main/Blue%20-%20ClearVision_Blue_M3
