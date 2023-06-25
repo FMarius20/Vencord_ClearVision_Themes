@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/FMarius20/Vencord_ClearVision_Themes/main/Yell
 
 ## Blue BMW M3
 
-<img src="https://images.alphacoders.com/485/485352.jpg" width="800">
+<img src="https://imgur.com/yiWNGfY" width="800">
 
 ```
 https://raw.githubusercontent.com/FMarius20/Vencord_ClearVision_Themes/main/Blue%20-%20ClearVision_Blue_M3
